@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\bin\Debug\netcoreapp3.1\P125FirstApp.exe
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\bin\Debug\netcoreapp3.1\P125FirstApp.deps.json
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\bin\Debug\netcoreapp3.1\P125FirstApp.runtimeconfig.json
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\bin\Debug\netcoreapp3.1\P125FirstApp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\bin\Debug\netcoreapp3.1\P125FirstApp.dll
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\bin\Debug\netcoreapp3.1\P125FirstApp.pdb
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\obj\Debug\netcoreapp3.1\P125FirstApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\obj\Debug\netcoreapp3.1\P125FirstApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\obj\Debug\netcoreapp3.1\P125FirstApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\obj\Debug\netcoreapp3.1\P125FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\obj\Debug\netcoreapp3.1\P125FirstApp.dll
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\obj\Debug\netcoreapp3.1\P125FirstApp.pdb
+C:\Users\Admin\source\repos\P125FirstApp\P125FirstApp\obj\Debug\netcoreapp3.1\P125FirstApp.genruntimeconfig.cache
